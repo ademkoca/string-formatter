@@ -1,0 +1,28 @@
+{
+  "name": "string-formatter-test",
+  "version": "1.0.11",
+  "description": "Simple utilities for string formatting",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ademkoca/string-formatter.git"
+  },
+  "keywords": [
+    "strings",
+    "formatting"
+  ],
+  "author": "Adem Koca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ademkoca/string-formatter/issues"
+  },
+  "homepage": "https://github.com/ademkoca/string-formatter#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
